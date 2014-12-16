@@ -36,9 +36,9 @@ import org.hibernate.metadata.ClassMetadata;
 import org.hibernate.transform.ResultTransformer;
 import org.springframework.util.Assert;
 
-import com.macrosoft.common.Reflection.ReflectionUtils;
 import com.macrosoft.common.baseFunction.BaseFunction;
 import com.macrosoft.common.constant.CommonConst;
+import com.macrosoft.common.reflection.ReflectionUtils;
 import com.macrosoft.core.BaseForm;
 import com.macrosoft.core.EntityDao;
 import com.macrosoft.core.HqlCondition;

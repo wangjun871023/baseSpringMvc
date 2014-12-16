@@ -12,7 +12,7 @@ import java.util.Date;
 import org.apache.commons.lang.StringUtils;
 import org.springframework.util.Assert;
 
-import com.macrosoft.common.Convert.ConvertUtils;
+import com.macrosoft.common.convert.ConvertUtils;
  
 
 /**

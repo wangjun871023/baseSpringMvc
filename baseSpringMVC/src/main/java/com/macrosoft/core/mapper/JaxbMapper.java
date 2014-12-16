@@ -23,8 +23,8 @@ import org.apache.commons.lang3.StringUtils;
 import org.springframework.http.converter.HttpMessageConversionException;
 import org.springframework.util.Assert;
 
-import com.macrosoft.common.Reflection.ReflectionUtils;
 import com.macrosoft.common.exception.Exceptions;
+import com.macrosoft.common.reflection.ReflectionUtils;
 
 
 /**
