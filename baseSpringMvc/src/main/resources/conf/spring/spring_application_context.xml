@@ -81,7 +81,7 @@
 
 	<!-- 自动扫面注解包 -->
 	<context:annotation-config />
-	<context:component-scan base-package="com.macrosoft">
+	<context:component-scan base-package="com">
 		<context:exclude-filter type="annotation"
 			expression="org.springframework.stereotype.Controller" />
 	</context:component-scan>
