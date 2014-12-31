@@ -22,5 +22,6 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
   
   <body>
     Index.jsp <br>
+    <img alt="换一个" src="verfityCode/getCodeImage.do?width=100&height=40"/>
   </body>
 </html>
